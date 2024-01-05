@@ -1,0 +1,35 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Sonya Schriner 
+#tagline:          ''
+#description:      ''
+url:              https://schriner.github.io
+baseurl:          /
+
+# Gems
+plugins:
+ - jekyll-gist
+ - jekyll-paginate
+ - jekyll-seo-tag
+ - jekyll-twitter-plugin
+
+
+author: 
+  name:           'Sonya Schriner'
+  url:            https://twitter.com/SchrinerSonya
+  linkedin:       https://www.linkedin.com/in/sonya-schriner/
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  url:            https://github.com/schriner
+  repo:           https://github.com/schriner/schriner.github.io
