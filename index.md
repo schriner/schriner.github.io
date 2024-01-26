@@ -16,6 +16,11 @@ During summer of 2018, I interned at Cisco within Emerging Tech and Incubation. 
 
 In January of 2020, I began working for Trail of Bits in Research and Development. I contributed to Symbolic Execution, Datalog, and Binary Translation research tools during this time. 
 
+I'm interested in Research and Development focused on Security and Numerical Computing. I'm experienced with LLVM, C++, Python, and ARM 32 bit architecture.
+
 <p class="message">
   Thanks for reading!
 </p>
+
+### Projects
+* [Mini Compiler and Interpreter](https://github.com/schriner/miniCompEval) from my undergraduate compilers course
