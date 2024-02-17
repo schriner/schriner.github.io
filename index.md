@@ -30,5 +30,5 @@ Python.
 </p>
 
 ### Projects
-* [Mini Compiler and Interpreter](https://github.com/schriner/miniCompEval): An ARMv7 assembly code generator and 
+* [Mini Compiler and Interpreter](https://github.com/schriner/miniCompEval): An ARMv7 assembly generator and 
 interpreter for a variation of the mini java syntax.
